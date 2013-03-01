@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ItDoesntMatter</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="find1">Find Contacts</string>
+    <string name="get_trends">Get Trends</string>
+    <string name="current_trends">Three Current Trends</string>
+
+</resources>
